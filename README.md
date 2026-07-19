@@ -63,7 +63,7 @@ The controller progressively refines the control sequence to improve trajectory 
 ## LQR
 
 Video of Real_Time_LQR_Sine_Wave:
-https://github.com/user-attachments/assets/447cfacf-22f1-4f2b-9571-8c07defc4a4f
+https://github.com/user-attachments/assets/1ac12fc5-2eb0-4118-8288-5ba145f4bf4b
 
 Video of Real_Time_LQR_Square_Wave:
 https://github.com/user-attachments/assets/14a66773-ab24-4a21-ae49-fabb6a33d0a9
