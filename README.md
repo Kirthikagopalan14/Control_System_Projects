@@ -2,6 +2,7 @@
 
 # Advanced control of an inverted pendulum
 MATLAB-LQR and iLQR Project repo
+
 <img width="1307" height="665" alt="image" src="https://github.com/user-attachments/assets/1f24e3c6-15d2-4209-a2b9-7999dcdd8c2b" />
 
 ## Overview
