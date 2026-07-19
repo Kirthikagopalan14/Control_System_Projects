@@ -1,3 +1,5 @@
+
+
 # Advanced control of an inverted pendulum
 MATLAB-LQR and iLQR Project repo
 <img width="1307" height="665" alt="image" src="https://github.com/user-attachments/assets/1f24e3c6-15d2-4209-a2b9-7999dcdd8c2b" />
@@ -59,6 +61,12 @@ The controller progressively refines the control sequence to improve trajectory 
 
 ## LQR
 
+Video of Real_Time_LQR_Sine_Wave:
+https://github.com/user-attachments/assets/447cfacf-22f1-4f2b-9571-8c07defc4a4f
+
+Video of Real_Time_LQR_Square_Wave:
+https://github.com/user-attachments/assets/14a66773-ab24-4a21-ae49-fabb6a33d0a9
+
 ✅ Stabilizes the pendulum successfully.
 
 ✅ Tracks both sine and square references.
@@ -69,6 +77,12 @@ The controller progressively refines the control sequence to improve trajectory 
 
 ## iLQR
 
+Video of Real_Time_iLQR_Sine_Wave:
+https://github.com/user-attachments/assets/d3419d18-deee-4a78-9cc5-0c040fe860d4
+
+Video of Real_Time_iLQR_Square_Wave:
+https://github.com/user-attachments/assets/baaa836d-1664-4291-bcdc-be023f378ba4
+
 Compared with LQR, the iterative controller demonstrates:
 
 - Improved tracking accuracy
@@ -76,7 +90,7 @@ Compared with LQR, the iterative controller demonstrates:
 - Lower control effort
 - Smoother control signals
 - Better convergence over successive iterations
-
+  
 ---
 
 # Performance Highlights
@@ -99,6 +113,10 @@ Compared with LQR, the iterative controller demonstrates:
 |        ├── Simulation_LQR_trajectory_sine.m
 |        ├── Simulation_LQR_trajectory_square.m
 ├── LQR_Real_Time_Deployment/
+
+https://github.com/user-attachments/assets/84fa6f3d-f57c-4ea4-a053-8b7d22a96f61
+
+
 |        ├── Real_time_sine.m
 |        ├── Real_time_square.m
 │
