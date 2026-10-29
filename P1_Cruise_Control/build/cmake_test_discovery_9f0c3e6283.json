@@ -1,0 +1,22 @@
+{
+  "tests": 2,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "HelloTest",
+      "tests": 2,
+      "testsuite": [
+        {
+          "name": "PrintPositiveTest",
+          "file": "K:\\Study_Material_AC\\Control_Projects\\Control_System_Projects\\P1_Cruise_Control\\tests\\hello_test.cpp",
+          "line": 6
+        },
+        {
+          "name": "PrintNegativeTest",
+          "file": "K:\\Study_Material_AC\\Control_Projects\\Control_System_Projects\\P1_Cruise_Control\\tests\\hello_test.cpp",
+          "line": 12
+        }
+      ]
+    }
+  ]
+}

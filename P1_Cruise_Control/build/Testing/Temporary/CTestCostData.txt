@@ -1,0 +1,8 @@
+HelloTest.PrintReturnsCorrectString 2 0.0118667
+HelloTest.PrintReturnsWrongString 0 0
+HelloTest.PrintPositiveTest 2 0.0106488
+HelloTest.PrintNegativeTest 1 0.0220199
+Vehicle.TyreDragOnly 5 0.0071443
+Vehicle.EngineLag 6 0.00307093
+Vehicle.TopSpeed 1 0.0212933
+---

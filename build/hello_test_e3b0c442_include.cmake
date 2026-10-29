@@ -1,0 +1,5 @@
+if(EXISTS "K:/Study_Material_AC/Control_Projects/Control_System_Projects/build/hello_test_e3b0c442_tests.cmake")
+  include("K:/Study_Material_AC/Control_Projects/Control_System_Projects/build/hello_test_e3b0c442_tests.cmake")
+else()
+  add_test(hello_test_NOT_BUILT hello_test_NOT_BUILT)
+endif()
